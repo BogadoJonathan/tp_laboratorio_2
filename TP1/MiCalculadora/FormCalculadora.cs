@@ -44,9 +44,10 @@ namespace MiCalculadora
 
         private void btnConvertirABinario_Click(object sender, EventArgs e)
         {
+            Numero number = new Numero();
             if(this.HayResultado())
             {
-                lblResultado.Text = Convert.ToString(Int32.Parse(lblResultado.Text),2);
+                lblResultado.Text = number.DecimalBinario(lblResultado.Text);
             }
         }
 
@@ -68,9 +69,15 @@ namespace MiCalculadora
             textNumero2.Clear();
             cmbOperador.Items.Clear();
             lblResultado.Text = "";
-            
         }
 
+        /// <summary>
+        /// Toma el operador si hace la cuenta necesaria con los 2 numeros ingresados
+        /// </summary>
+        /// <param name="numero1">Numero 1, ingresado desde el boxtext</param>
+        /// <param name="numero2">Numero 2, ingresado desde el boxtext</param>
+        /// <param name="numero3">Operador seleccionado</param>
+        /// <returns>Retorna resultado de la operacion</returns>
         private static double Operar(string numero1,string numero2,string operador)
         {
             Numero num1 = new Numero(numero1);
@@ -85,15 +92,22 @@ namespace MiCalculadora
 
         private void btnConvertirADecimal_Click(object sender, EventArgs e)
         {
+            Numero number = new Numero();
             if (this.HayResultado())
             {
-                lblResultado.Text = Convert.ToString(Convert.ToInt32(lblResultado.Text, 2));
+                lblResultado.Text = number.BinarioDecimal(lblResultado.Text);
             }
         }
 
+        /// <summary>
+        /// Verifica si hay resultado en el label y si es un numero entero
+        /// </summary>
+        /// <returns>Retorna true si hay resultado y es numero entero, de lo contrario false</returns>
         private bool HayResultado()
         {
-            return !(lblResultado.Text == "");
+            int aux;
+            bool succes = Int32.TryParse(lblResultado.Text,out aux);
+            return (!(lblResultado.Text == "") && (aux % 2) == 0 && succes);
         }
     }
 }

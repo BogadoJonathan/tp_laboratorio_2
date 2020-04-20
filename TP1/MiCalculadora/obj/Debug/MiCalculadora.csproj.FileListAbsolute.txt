@@ -11,3 +11,16 @@ C:\Users\Bogad.BONCHANET\Desktop\Universidad\Programacion II\Trabajos Practicos\
 C:\Users\Bogad.BONCHANET\Desktop\Universidad\Programacion II\Trabajos Practicos\tp1 2020\Entidades\MiCalculadora\bin\Debug\Entidades.dll
 C:\Users\Bogad.BONCHANET\Desktop\Universidad\Programacion II\Trabajos Practicos\tp1 2020\Entidades\MiCalculadora\bin\Debug\Entidades.pdb
 C:\Users\Bogad.BONCHANET\Desktop\Universidad\Programacion II\Trabajos Practicos\tp1 2020\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Bogad.BONCHANET\Desktop\Universidad\Programacion II\Trabajos Practicos\TP1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Bogad.BONCHANET\Desktop\Universidad\Programacion II\Trabajos Practicos\TP1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Bogad.BONCHANET\Desktop\Universidad\Programacion II\Trabajos Practicos\TP1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Bogad.BONCHANET\Desktop\Universidad\Programacion II\Trabajos Practicos\TP1\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\Bogad.BONCHANET\Desktop\Universidad\Programacion II\Trabajos Practicos\TP1\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Bogad.BONCHANET\Desktop\Universidad\Programacion II\Trabajos Practicos\TP1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Bogad.BONCHANET\Desktop\Universidad\Programacion II\Trabajos Practicos\TP1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\Bogad.BONCHANET\Desktop\Universidad\Programacion II\Trabajos Practicos\TP1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Bogad.BONCHANET\Desktop\Universidad\Programacion II\Trabajos Practicos\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Bogad.BONCHANET\Desktop\Universidad\Programacion II\Trabajos Practicos\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Bogad.BONCHANET\Desktop\Universidad\Programacion II\Trabajos Practicos\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Bogad.BONCHANET\Desktop\Universidad\Programacion II\Trabajos Practicos\TP1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Bogad.BONCHANET\Desktop\Universidad\Programacion II\Trabajos Practicos\TP1\MiCalculadora\obj\Debug\MiCalculadora.pdb
