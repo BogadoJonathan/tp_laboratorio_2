@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+GYJ0BVLmrrq3hQ3yXFiY2DUtXKBnVFadlEUI2iZpRxgQo8IhgxCeC2HPrjHjEFxUhsFwXkmKE8+bQzbO5IhHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bogad.BONCHANET\\Desktop\\Universidad\\Programacion II\\Trabajos Practicos\\tp1 2020\\Entidades\\Entidades\\Entidades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bogad.BONCHANET\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Bogad.BONCHANET\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
